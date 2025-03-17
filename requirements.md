@@ -526,6 +526,12 @@ The **Stock Menu** contains the following **UI Elements**, displayed **verticall
 			- All applied style is not required by the requirement but welcome.
 			- Selecting the quantity of stocks to buy/sell.
 			- Default value: 0
+    	- **DropDown-Menu** displaying the number of **heart-beats** on a refresh.  
+			- All applied style is not required by the requirement but welcome.
+		     - Displaying the following options:
+			      - 3 **heart-beats** on refresh
+				- 10 **heart-beats** on refresh
+			   	- 30 **heart-beats** on refresh  
 		- **Button** displaying the text **"Buy!"**:
 			- All applied style is not required by the requirement but welcome.
 			- **On Click** validate if the user can afford the quantity * price:
