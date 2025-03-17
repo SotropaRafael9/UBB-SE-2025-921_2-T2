@@ -75,7 +75,7 @@ The navbar will have the following **UI Elements**, displayed **vertically** fro
 	- Vertically spanning the height of the content. **(FIT)**
 	- **Children** are alligned **vertically**.
 	- Contains the following **UI Elements**:
-		- - **Text Label** displaying the text **"Wallet"**
+		- **Text Label** displaying the text **"Wallet"**
 			- All applied style is not required by the requirement but welcome.
 		- **Text Label** displaying the text **"Gems: "**, followed by the amount of **gems** the user currently posseses.
 			- **Gem Green** colored Text (any shade).
